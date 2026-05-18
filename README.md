@@ -10,3 +10,4 @@ w .env zmiana providera o2 -> mailhog i odwrotnie (dla testów lokalnych taka zm
 3) do testów lokalnych: konfiguruj projekty startowe -> wiele projektów startowych -> wszystko oprócz Common na "Uruchom"
 4) do testów lokalnych musisz odpalić kontener mailhog (wewnętarz kontenera urbanfix - sam mailhog bez tego od baz danych)
 5) do testów z aws db odpalasz cały kontener urbanfix-app i wtedy są też prawdziwe maile
+6) jak jest nowa sesja na aws learner lab to passy wklejasz do .env i do secrets.json w ReportService
