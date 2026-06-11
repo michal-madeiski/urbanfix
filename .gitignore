@@ -24,6 +24,7 @@ amqp_url.txt
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+AGENTS.md
 
 # Mono auto generated files
 mono_crash.*
